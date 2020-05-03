@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\9_7_Segment_Normalflow.obj" 
+TO ".\Objects\9_7_Segment_Normalflow" 
+PRINT(".\Listings\9_7_Segment_Normalflow.m51") RAMSIZE(256) 
